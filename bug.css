@@ -1,0 +1,1 @@
+The following CSS code snippet is intended to style a list, but the list items are not being correctly spaced, resulting in overlapping or clustered items.  The issue stems from an unusual interaction between the `list-style-type` and `padding` properties, particularly with certain values.
